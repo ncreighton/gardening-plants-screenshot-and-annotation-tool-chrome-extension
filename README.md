@@ -28,8 +28,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Under 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://lunarautomata.gumroad.com/l/jeqbp)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/5kQ6oH3aLcYI6xy7jCcZF2A)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://lunarautomata.gumroad.com/l/jeqbp)
 
 ## License
 
